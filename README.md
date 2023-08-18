@@ -1,7 +1,7 @@
 ﻿# 环境
 
+* 操作系统名称：Microsoft
 * 语言：Python 3.6.1
-* 操作系统：windows
 * 模块：statsmodels 0.12.1 tqdm 4.50.2 pandas 1.0.5 numpy 1.19.5 scikit-learn 0.23.2 lightgbm 2.3.1
 
 # 代码思路
